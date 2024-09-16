@@ -1,18 +1,56 @@
 {
-	"version":1,
-	"timestamp":0,
-	"news":[
-		{
-			"timestamp":0,
-			"details":"News 1!"
-		},
-		{
-			"timestamp":0,
-			"details":"News 2!"
-		},
-		{
-			"timestamp":0,
-			"details":"News 3!"
-		}
-	]
+  "tcu": {
+    "version": 1,
+    "timestamp": 0,
+    "news": [
+      {
+        "timestamp": 0,
+        "details": "Test news item 1!"
+      },
+      {
+        "timestamp": 1,
+        "details": "Test news item 2!"
+      },
+      {
+        "timestamp": 2,
+        "details": "Test news item 3!"
+      },
+      {
+        "timestamp": 3,
+        "details": "Test news item 4!"
+      },
+      {
+        "timestamp": 4,
+        "details": "Test news item 5!"
+      },
+      {
+        "timestamp": 5,
+        "details": "Test news item 6!"
+      },
+      {
+        "timestamp": 6,
+        "details": "Test news item 7!"
+      },
+      {
+        "timestamp": 7,
+        "details": "Test news item 8!"
+      },
+      {
+        "timestamp": 8,
+        "details": "Test news item 9!"
+      },
+      {
+        "timestamp": 9,
+        "details": "Test news item 10!"
+      },
+      {
+        "timestamp": 10,
+        "details": "Test news item 11!"
+      },
+      {
+        "timestamp": 11,
+        "details": "Test news item 12!"
+      }
+    ]
+  }
 }
