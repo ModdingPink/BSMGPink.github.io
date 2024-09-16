@@ -2,11 +2,10 @@
 layout: none
 permalink: /news.json
 ---
-
-{% assign news_items = site.data.data.news | slice: 0, 10 %}
-
+{% assign data = site.data.data.tcu %}
+{% assign news_items = data.news | slice: 0, 10 %}
 {
-  "version": {{ site.data.data.version | jsonify }},
-  "timestamp": {{ site.data.data.timestamp | jsonify }},
+  "version": {{ data.version | jsonify }},
+  "timestamp": {{ data.timestamp | jsonify }},
   "news": {{ news_items | jsonify }}
 }
