@@ -1,7 +1,3 @@
----
-layout: none
-permalink: /news.json
----
 {% assign data = site.data.data.tcu %}
 {% assign news_items = data.news | slice: 0, 10 %}
 {
