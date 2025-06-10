@@ -27,12 +27,24 @@
   "TestMe": [
     "Freeek"
   ],
-  "AmericanIdiot": [],
-  "FatherOfAll": [],
-  "BoulevardOfBrokenDreams": [],
-  "Holiday": [],
-  "FireReadyAim": [],
-  "Minority": [],
+  "AmericanIdiot": [
+    "Freeek"
+  ],
+  "FatherOfAll": [
+    "Ruckus"
+  ],
+  "BoulevardOfBrokenDreams": [
+    "Freeek"
+  ],
+  "Holiday": [
+    "GreatYazer"
+  ],
+  "FireReadyAim": [
+    "GreatYazer"
+  ],
+  "Minority": [
+    "Ruckus"
+  ],
   "HasAMeaning": [],
   "DumbThingz": [],
   "WhileWereYoung": [],
@@ -360,7 +372,8 @@
     "Zakka"
   ],
   "LessThanZero": [
-    "altrewin"
+    "altrewin",
+    "ETAN"
   ],
   "BlindingLights": [
     "ConnorJC"
