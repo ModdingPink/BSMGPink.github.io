@@ -121,13 +121,36 @@
     "Kolezan",
     "Freeek"
   ],
-  "CountingStars": [],
-  "DnaLamar": [],
-  "DontCha": [],
-  "PartyRockAnthem": [],
-  "Rollin": [],
-  "Sugar": [],
-  "TheSweetEscape": [],
+  "CountingStars": [
+    "Kolezan"
+  ],
+  "DnaLamar": [
+    "Zakka",
+    "Freeek",
+    "Ruckus"
+  ],
+  "DontCha": [
+    "Freeek",
+    "Zakka",
+    "Kolezan"
+  ],
+  "PartyRockAnthem": [
+    "Freeek"
+  ],
+  "Rollin": [
+    "Zakka",
+    "Freeek",
+    "Kolezan"
+  ],
+  "Sugar": [
+    "Zakka",
+    "Kolezan",
+    "Freeek"
+  ],
+  "TheSweetEscape": [
+    "Kolezan",
+    "Ruckus"
+  ],
   "Bangarang": [
     "Kolezan"
   ],
