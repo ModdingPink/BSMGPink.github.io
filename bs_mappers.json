@@ -108,26 +108,67 @@
   "Rollin": [],
   "Sugar": [],
   "TheSweetEscape": [],
-  "Bangarang": [],
-  "Butterflies": [],
-  "DontGo": [],
-  "FirstOfTheYear": [],
-  "RaggaBomb": [],
-  "RockNRoll": [],
-  "ScaryMonstersAndNiceSprites": [],
-  "TheDevilsDen": [],
-  "AllTheGoodGirlsGoToHell": [],
-  "BadGuy": [],
-  "Bellyache": [],
-  "BuryAFriend": [],
-  "HappierThanEver": [],
-  "IDidntChangeMyNumber": [],
+  "Bangarang": [
+    "Kolezan"
+  ],
+  "Butterflies": [
+    "Kolezan"
+  ],
+  "DontGo": [
+    "Kolezan",
+    "Zakka",
+    "Ruckus"
+  ],
+  "FirstOfTheYear": [
+    "Zakka",
+    "Ruckus",
+    "Kolezan"
+  ],
+  "RaggaBomb": [
+    "Zakka",
+    "Ruckus"
+  ],
+  "RockNRoll": [
+    "Freeek"
+  ],
+  "ScaryMonstersAndNiceSprites": [
+    "Freeek"
+  ],
+  "TheDevilsDen": [
+    "Kolezan"
+  ],
+  "AllTheGoodGirlsGoToHell": [
+    "Kolezan"
+  ],
+  "BadGuy": [
+    "Freeek"
+  ],
+  "Bellyache": [
+    "Ruckus"
+  ],
+  "BuryAFriend": [
+    "Ruckus"
+  ],
+  "HappierThanEver": [
+    "Freeek",
+    "Kolezan"
+  ],
+  "IDidntChangeMyNumber": [
+    "Kolezan",
+    "Zakka"
+  ],
   "NDA": [
     "Freeek"
   ],
-  "Oxytocin": [],
-  "ThereforeIAm": [],
-  "YouShouldSeeMeInACrown": [],
+  "Oxytocin": [
+    "Kolezan"
+  ],
+  "ThereforeIAm": [
+    "Zakka"
+  ],
+  "YouShouldSeeMeInACrown": [
+    "Zakka"
+  ],
   "Alejandro": [
     "Kolezan"
   ],
