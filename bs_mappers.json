@@ -783,9 +783,14 @@
     "altrewin"
   ],
   "CurtainsAllNightLong": [
-    "altrewin"
+    "altrewin",
+    "Zakka"
   ],
-  "FinalBossChan": [],
+  "FinalBossChan": [
+    "Zakka",
+    "altrewin",
+    "Kolezan"
+  ],
   "Firestarter": [
     "ETAN"
   ],
