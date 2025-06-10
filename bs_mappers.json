@@ -38,18 +38,46 @@
   "WhileWereYoung": [],
   "WhatILike": [],
   "Famous": [],
-  "BloodSweatAndTears": [],
-  "BoyWithLuv": [],
-  "BurningUp": [],
-  "Dionysus": [],
-  "Dna": [],
-  "Dope": [],
-  "Dynamite": [],
-  "FakeLove": [],
-  "Idol": [],
-  "MicDrop": [],
-  "NotToday": [],
-  "Ugh": [],
+  "BloodSweatAndTears": [
+    "GreatYazer",
+    "Kolezan"
+  ],
+  "BoyWithLuv": [
+    "Kolezan"
+  ],
+  "BurningUp": [
+    "Freeek",
+    "Kolezan"
+  ],
+  "Dionysus": [
+    "Kolezan"
+  ],
+  "Dna": [
+    "Ruckus"
+  ],
+  "Dope": [
+    "Freeek"
+  ],
+  "Dynamite": [
+    "Freeek"
+  ],
+  "FakeLove": [
+    "Kolezan"
+  ],
+  "Idol": [
+    "Ruckus"
+  ],
+  "MicDrop": [
+    "Freeek"
+  ],
+  "NotToday": [
+    "Kolezan",
+    "Freeek"
+  ],
+  "Ugh": [
+    "Kolezan",
+    "Freeek"
+  ],
   "CountingStars": [],
   "DnaLamar": [],
   "DontCha": [],
