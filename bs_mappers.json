@@ -426,13 +426,15 @@
     "altrewin"
   ],
   "Angry": [
-    "ETAN"
+    "ETAN",
+    "AaltopahWi"
   ],
   "BiteMyHeadOff": [
     "Syndicate"
   ],
   "CantYouHearMeKnocking": [
-    "Zakka"
+    "Zakka",
+    "Syndicate"
   ],
   "GimmeShelter": [
     "Zakka"
@@ -450,7 +452,8 @@
     "Kolezan"
   ],
   "StartMeUp": [
-    "Kolezan"
+    "Kolezan",
+    "AaltopahWi"
   ],
   "SympathyForTheDevil": [
     "Narwall"
@@ -826,7 +829,8 @@
     "altrewin"
   ],
   "EscapeRemix": [
-    "ConnorJC Zakka"
+    "ConnorJC", 
+    "Zakka"
   ],
   "SpookyBeat": [
     "Freeek"
