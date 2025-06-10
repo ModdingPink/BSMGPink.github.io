@@ -758,12 +758,26 @@
   "UnlimitedPower": [
     "Split"
   ],
-  "Origins": [],
-  "ReasonForLiving": [],
-  "GiveALittleLove": [],
-  "FullCharge": [],
-  "Immortal": [],
-  "BurningSands": [],
+  "Origins": [
+    "Freeek"
+  ],
+  "ReasonForLiving": [
+    "Freeek"
+  ],
+  "GiveALittleLove": [
+    "Freeek"
+  ],
+  "FullCharge": [
+    "Freeek",
+    "GreatYazer"
+  ],
+  "Immortal": [    
+    "Freeek",
+    "GreatYazer"
+  ],
+  "BurningSands": [ 
+    "Freeek"
+  ],
   "IntoTheDream": [
     "Kolezan"
   ],
