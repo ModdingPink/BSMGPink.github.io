@@ -530,23 +530,83 @@
   "RIOT": [],
   "ThronesOfBlood": [],
   "WakeUp": [],
-  "AtlasRise": [],
-  "Battery": [],
-  "Blackened": [],
-  "CreepingDeath": [],
-  "EnterSandman": [],
-  "FadeToBlack": [],
-  "ForWhomTheBellTolls": [],
-  "Fuel": [],
-  "HitTheLights": [],
-  "KingNothing": [],
-  "LuxAeterna": [],
-  "MasterOfPuppets": [],
-  "NothingElseMatters": [],
-  "One": [],
-  "SadButTrue": [],
-  "SeekAndDestroy": [],
-  "TheUnforgiven": [],
+  "AtlasRise": [
+    "Syndicate",
+    "ETAN",
+    "AaltopahWi"
+  ],
+  "Battery": [
+    "Zakka",
+    "altrewin"
+  ],
+  "Blackened": [
+    "Syndicate",
+    "ETAN",
+    "AaltopahWi",
+    "Narwall"
+  ],
+  "CreepingDeath": [
+    "Kolezan",
+    "Freeek"
+  ],
+  "EnterSandman": [
+    "Zakka",
+    "AaltopahWi"
+  ],
+  "FadeToBlack": [
+    "ETAN"
+  ],
+  "ForWhomTheBellTolls": [
+    "Narwall",
+    "ETAN",
+    "Zakka",
+    "Freeek"
+  ],
+  "Fuel": [
+    "ETAN"
+  ],
+  "HitTheLights": [
+    "ETAN",
+    "Narwall",
+    "AaltopahWi"
+  ],
+  "KingNothing": [
+    "Freeek"
+  ],
+  "LuxAeterna": [
+    "altrewin"
+  ],
+  "MasterOfPuppets": [
+    "Zakka",
+    "AaltopahWi",
+    "Freeek",
+    "Syndicate",
+    "Narwall",
+    "Kolezan",
+    "altrewin",
+    "ETAN"
+  ],
+  "NothingElseMatters": [
+    "Kolezan",
+    "Freeek"
+  ],
+  "One": [
+    "altrewin"
+  ],
+  "SadButTrue": [
+    "Zakka",
+    "AaltopahWi"
+  ],
+  "SeekAndDestroy": [
+    "Narwall",
+    "ETAN",
+    "Zakka",
+    "Freeek"
+  ],
+  "TheUnforgiven": [
+    "Zakka",
+    "Freeek"
+  ],
   "Houdini": [],
   "NotLikeUs": [
     "altrewin",
