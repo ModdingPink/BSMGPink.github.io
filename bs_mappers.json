@@ -760,11 +760,30 @@
   "TempoKatana": [
     "ETAN"
   ],
-  "Damage": [],
-  "Lustre": [],
-  "TheMaster": [],
-  "Untamed": [],
-  "WorldWideWeb": [],
+  "Damage": [
+    "Narwall",
+    "ETAN",
+    "Syndicate"
+  ],
+  "Lustre": [
+    "Syndicate",
+    "altrewin"
+  ],
+  "TheMaster": [
+    "Zakka",
+    "Syndicate",
+    "Narwal",
+    "Freeek"
+  ],
+  "Untamed": [
+    "Zakka",
+    "Kolezan",
+    "altrewin"
+  ],
+  "WorldWideWeb": [
+    "ETAN",
+    "AaltopahWi"
+  ],
   "Danger": [],
   "100BillsRemix": [
     "altrewin"
