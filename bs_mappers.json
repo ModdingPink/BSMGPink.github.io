@@ -1,1 +1,646 @@
-
+{
+  "Boundless": [],
+  "EmojiVIP": [],
+  "Epic": [],
+  "FeelingStronger": [],
+  "Overkill": [],
+  "Rattlesnake": [],
+  "Stronger": [],
+  "ThisTime": [],
+  "TillItsOver": [],
+  "WeWontBeAlone": [],
+  "Play": [],
+  "Glide": [],
+  "LuvUNeedU": [],
+  "RockIt": [],
+  "Shiawase": [],
+  "TestMe": [],
+  "AmericanIdiot": [],
+  "FatherOfAll": [],
+  "BoulevardOfBrokenDreams": [],
+  "Holiday": [],
+  "FireReadyAim": [],
+  "Minority": [],
+  "HasAMeaning": [],
+  "DumbThingz": [],
+  "WhileWereYoung": [],
+  "WhatILike": [],
+  "Famous": [],
+  "BloodSweatAndTears": [],
+  "BoyWithLuv": [],
+  "BurningUp": [],
+  "Dionysus": [],
+  "Dna": [],
+  "Dope": [],
+  "Dynamite": [],
+  "FakeLove": [],
+  "Idol": [],
+  "MicDrop": [],
+  "NotToday": [],
+  "Ugh": [],
+  "CountingStars": [],
+  "DnaLamar": [],
+  "DontCha": [],
+  "PartyRockAnthem": [],
+  "Rollin": [],
+  "Sugar": [],
+  "TheSweetEscape": [],
+  "Bangarang": [],
+  "Butterflies": [],
+  "DontGo": [],
+  "FirstOfTheYear": [],
+  "RaggaBomb": [],
+  "RockNRoll": [],
+  "ScaryMonstersAndNiceSprites": [],
+  "TheDevilsDen": [],
+  "AllTheGoodGirlsGoToHell": [],
+  "BadGuy": [],
+  "Bellyache": [],
+  "BuryAFriend": [],
+  "HappierThanEver": [],
+  "IDidntChangeMyNumber": [],
+  "NDA": [
+    "Freeek"
+  ],
+  "Oxytocin": [],
+  "ThereforeIAm": [],
+  "YouShouldSeeMeInACrown": [],
+  "Alejandro": [
+    "Kolezan"
+  ],
+  "BadRomance": [
+    "Zakka"
+  ],
+  "BornThisWay": [
+    "ETAN"
+  ],
+  "JustDance": [
+    "Kolezan"
+  ],
+  "Paparazzi": [
+    "Ruckus"
+  ],
+  "PokerFace": [
+    "altrewin"
+  ],
+  "RainOnMe": [
+    "Zakka"
+  ],
+  "StupidLove": [
+    "Ruckus"
+  ],
+  "Telephone": [
+    "Freeek"
+  ],
+  "TheEdgeOfGlory": [
+    "ConnorJC"
+  ],
+  "Centuries": [
+    "Kolezan"
+  ],
+  "DanceDance": [
+    "ConnorJC"
+  ],
+  "IDontCare": [
+    "Zakka"
+  ],
+  "Immortals": [
+    "ConnorJC"
+  ],
+  "Irresistible": [
+    "altrewin"
+  ],
+  "MySongsKnow": [
+    "Freeek"
+  ],
+  "ThisAintAScene": [
+    "ETAN"
+  ],
+  "ThnksFrThMmrs": [
+    "Kolezan"
+  ],
+  "Alone": [
+    "ETAN"
+  ],
+  "Animals": [
+    "Zakka"
+  ],
+  "Freestyler": [
+    "Kolezan"
+  ],
+  "GhostsNStuff": [
+    "altrewin"
+  ],
+  "Icarus": [
+    "Zakka"
+  ],
+  "Sandstorm": [
+    "Freeek",
+    "ConnorJC",
+    "Kolezan",
+    "ETAN",
+    "Zakka",
+    "Altrewin"
+  ],
+  "StayTheNight": [
+    "ConnorJC"
+  ],
+  "TheRockafellerSkank": [
+    "Kolezan"
+  ],
+  "WaitingAllNight": [
+    "ETAN"
+  ],
+  "Witchcraft": [
+    "Freeek"
+  ],
+  "2BeLoved": [
+    "ConnorJC"
+  ],
+  "AboutDamnTime": [
+    "Freeek"
+  ],
+  "CuzILoveYou": [
+    "altrewin"
+  ],
+  "EverybodysGay": [
+    "Zakka"
+  ],
+  "GoodAsHell": [
+    "ETAN"
+  ],
+  "Juice": [
+    "ConnorJC"
+  ],
+  "Tempo": [
+    "altrewin"
+  ],
+  "TruthHurts": [
+    "ETAN"
+  ],
+  "Worship": [
+    "Zakka"
+  ],
+  "BornToBeWild": [
+    "Zakka"
+  ],
+  "EyeOfTheTiger": [
+    "altrewin"
+  ],
+  "FreeBird": [
+    "Freeek"
+  ],
+  "IWasMadeLovingYou": [
+    "ConnorJC"
+  ],
+  "SevenNationArmy": [
+    "Zakka"
+  ],
+  "SmellsLikeTeenSpirit": [
+    "Kolezan"
+  ],
+  "SweetChildOMine": [
+    "ConnorJC"
+  ],
+  "ThePretender": [
+    "altrewin"
+  ],
+  "Bones": [
+    "ETAN"
+  ],
+  "Enemy": [
+    "Freeek"
+  ],
+  "BadLiar": [
+    "GreatYazer (Kolezan Remaster)"
+  ],
+  "Believer": [
+    "Freeek (Freeek Remaster)"
+  ],
+  "Digital": [
+    "Freeek (Zakka Remaster)"
+  ],
+  "ItsTime": [
+    "GreatYazer (altrewin Remaster)"
+  ],
+  "Machine": [
+    "Rustic (Zakka Remaster)"
+  ],
+  "Natural": [
+    "GreatYazer (altrewin Remaster)"
+  ],
+  "Radioactive": [
+    "Freeek (ETAN Remaster)"
+  ],
+  "Thunder": [
+    "GreatYazer (ETAN Remaster)"
+  ],
+  "Warriors": [
+    "Freeek (Freeek Remaster)"
+  ],
+  "WhateverItTakes": [
+    "Freeek (Kolezan Remaster)"
+  ],
+  "CrazyGenius": [
+    "altrewin"
+  ],
+  "DancingsNotACrime": [
+    "ETAN"
+  ],
+  "HeyLookMaIMadeIt": [
+    "Zakka"
+  ],
+  "SayAmen": [
+    "Zakka"
+  ],
+  "SugarSoaker": [
+    "altrewin"
+  ],
+  "VivaLasVengeance": [
+    "Kolezan"
+  ],
+  "EmperorsNewClothes": [
+    "GreatYazer (Zakka Remaster)"
+  ],
+  "HighHopes": [
+    "GreatYazer (Kolezan Remaster)"
+  ],
+  "TheGreatestShow": [
+    "Freeek (Freeek Remaster)"
+  ],
+  "Victorious": [
+    "Freeek (ETAN Remaster)"
+  ],
+  "AnotherOneBitesTheDust": [
+    "Zakka"
+  ],
+  "BohemianRhapsody": [
+    "Zakka",
+    "Freeek",
+    "Kolezan",
+    "ETAN",
+    "altrewin"
+  ],
+  "CrazyLittleThingCalledLove": [
+    "altrewin"
+  ],
+  "DontStopMeNow": [
+    "ETAN"
+  ],
+  "IWantItAll": [
+    "Zakka"
+  ],
+  "KillerQueen": [
+    "Freeek"
+  ],
+  "OneVision": [
+    "altrewin"
+  ],
+  "SomebodyToLove": [
+    "ETAN"
+  ],
+  "StoneColdCrazy": [
+    "Kolezan"
+  ],
+  "WeAreTheChampions": [
+    "altrewin",
+    "ETAN",
+    "Zakka",
+    "Kolezan",
+    "Freeek"
+  ],
+  "WeWillRockYou": [
+    "Kolezan",
+    "Freek",
+    "altrewin",
+    "ETAN",
+    "Zakka"
+  ],
+  "DieForYou": [
+    "Zakka"
+  ],
+  "LessThanZero": [
+    "altrewin"
+  ],
+  "BlindingLights": [
+    "ConnorJC"
+  ],
+  "CantFeelMyFace": [
+    "altrewin"
+  ],
+  "HowDoIMakeYouLoveMe": [
+    "Kolezan"
+  ],
+  "IFeelItComing": [
+    "Zakka"
+  ],
+  "PrayForMe": [
+    "altrewin"
+  ],
+  "Sacrifice": [
+    "Zakka"
+  ],
+  "SaveYourTears": [
+    "ETAN"
+  ],
+  "Starboy": [
+    "ConnorJC"
+  ],
+  "TakeMyBreath": [
+    "Zakka"
+  ],
+  "TheHills": [
+    "Freeek"
+  ],
+  "BleedItOut": [
+    "Freeek (Narwall",
+    "Freeek",
+    "ETAN",
+    "altrewin Remaster)"
+  ],
+  "BreakingTheHabit": [
+    "Freeek (AaltopahWi",
+    "altrewin remaster)"
+  ],
+  "Faint": [
+    "GreatYazer (ETAN Remaster)"
+  ],
+  "GivenUp": [
+    "Freeek (altrewin",
+    "Zakka Remaster)"
+  ],
+  "InTheEnd": [
+    "Ruckus (altrewin Remaster)"
+  ],
+  "NewDivide": [
+    "Kolezan (Syndicate",
+    "Kolezan Remaster)"
+  ],
+  "Numb": [
+    "Freeek (Syndicate",
+    "Zakka Remaster)"
+  ],
+  "OneStepCloser": [
+    "Freeek (Zakka Remaster)"
+  ],
+  "Papercut": [
+    "Kolezan (AaltopahWi",
+    "Kolezan Remaster)"
+  ],
+  "SomewhereIBelong": [
+    "Kolezan (Remaster)"
+  ],
+  "WhatIveDone": [
+    "Ruckus (Narwall",
+    "altrewin",
+    "Zakka Remaster)"
+  ],
+  "AlreadyOver": [
+    "Kolezan"
+  ],
+  "Crawling": [
+    "Zakka"
+  ],
+  "FightingMyself": [
+    "Syndicate",
+    "Zakka"
+  ],
+  "InMyHead": [
+    "ETAN"
+  ],
+  "Lost": [
+    "Narwall",
+    "ETAN"
+  ],
+  "MoreTheVictim": [
+    "altrewin",
+    "Zakka",
+    "AaltopahWi"
+  ],
+  "NumbEncore": [
+    "altrewin",
+    "Kolezan",
+    "Zakka"
+  ],
+  "RememberTheName": [
+    "altrewin"
+  ],
+  "Angry": [
+    "ETAN"
+  ],
+  "BiteMyHeadOff": [
+    "Syndicate"
+  ],
+  "CantYouHearMeKnocking": [
+    "Zakka"
+  ],
+  "GimmeShelter": [
+    "Zakka"
+  ],
+  "ICantGetNoSatisfaction": [
+    "ETAN"
+  ],
+  "LiveByTheSword": [
+    "altrewin"
+  ],
+  "MessItUp": [
+    "ETAN"
+  ],
+  "PaintItBlack": [
+    "Kolezan"
+  ],
+  "StartMeUp": [
+    "Kolezan"
+  ],
+  "SympathyForTheDevil": [
+    "Narwall"
+  ],
+  "WholeWideWorld": [
+    "altrewin"
+  ],
+  "AroundTheWorld": [
+    "Aaltopahwi",
+    "Kolezan",
+    "Syndicate",
+    "Zakka",
+    "ETAN",
+    "altrewin",
+    "Narwall"
+  ],
+  "AroundTheWorldHarderBetterFasterStronger": [
+    "altrewin"
+  ],
+  "DaFunkDaftendirekt": [
+    "Syndicate",
+    "ETAN",
+    "Zakka"
+  ],
+  "GetLucky": [
+    "Kolezan"
+  ],
+  "HarderBetterFasterStronger": [
+    "ETAN"
+  ],
+  "LoseYourselfToDance": [
+    "Zakka"
+  ],
+  "OneMoreTime": [
+    "AaltopahWi",
+    "Narwall"
+  ],
+  "PrimeTimeOfYourLifeBrainwasherRollinAliveLive2007": [
+    "Kolezan",
+    "altrewin"
+  ],
+  "Technologic": [
+    "ETAN"
+  ],
+  "VeridisQuo": [
+    "Zakka"
+  ],
+  "AllEyezOnMe": [],
+  "Anaconda": [],
+  "GinAndJuice": [],
+  "Godzilla": [],
+  "HeyYA": [],
+  "Hypnotize": [],
+  "NuthinButAGThang": [],
+  "TheMessage": [],
+  "TheWoo": [],
+  "BabyOneMoreTime": [],
+  "Circus": [],
+  "GimmeMore": [],
+  "ImASlave4U": [],
+  "MeAgainstTheMusic": [],
+  "OopsIDidItAgain": [],
+  "Overprotected": [],
+  "Scream&Shout": [],
+  "TillTheWorldEnds": [],
+  "Toxic": [],
+  "Womanizer": [],
+  "Accelerate": [],
+  "Dabadabadabadaba": [],
+  "DeadManWalking": [],
+  "Endgame": [],
+  "FinalBoss": [],
+  "MemoryBank": [],
+  "Mercenary": [],
+  "Pump": [],
+  "Rad": [],
+  "RIOT": [],
+  "ThronesOfBlood": [],
+  "WakeUp": [],
+  "AtlasRise": [],
+  "Battery": [],
+  "Blackened": [],
+  "CreepingDeath": [],
+  "EnterSandman": [],
+  "FadeToBlack": [],
+  "ForWhomTheBellTolls": [],
+  "Fuel": [],
+  "HitTheLights": [],
+  "KingNothing": [],
+  "LuxAeterna": [],
+  "MasterOfPuppets": [],
+  "NothingElseMatters": [],
+  "One": [],
+  "SadButTrue": [],
+  "SeekAndDestroy": [],
+  "TheUnforgiven": [],
+  "Houdini": [],
+  "NotLikeUs": [],
+  "100Bills": [],
+  "BalearicPumping": [],
+  "BeatSaber": [],
+  "Breezer": [],
+  "CommercialPumping": [],
+  "CountryRounds": [],
+  "Escape": [],
+  "Legend": [],
+  "LvlInsane": [],
+  "TurnMeOn": [],
+  "BeThereForYou": [],
+  "Elixia": [],
+  "INeedYou": [
+    "Purphoros",
+    "Split"
+  ],
+  "RumNBass": [
+    "Freek",
+    "Split"
+  ],
+  "UnlimitedPower": [
+    "Split"
+  ],
+  "Origins": [],
+  "ReasonForLiving": [],
+  "GiveALittleLove": [],
+  "FullCharge": [],
+  "Immortal": [],
+  "BurningSands": [],
+  "IntoTheDream": [],
+  "ItTakesMe": [],
+  "LudicrousPlus": [],
+  "SpinEternally": [],
+  "DollarSeventyEight": [
+    "altrewin"
+  ],
+  "CurtainsAllNightLong": [
+    "altrewin"
+  ],
+  "FinalBossChan": [],
+  "Firestarter": [
+    "ETAN"
+  ],
+  "IWannaBeAMachine": [
+    "ConnorJC"
+  ],
+  "Magic": [
+    "Freeek"
+  ],
+  "Cathedral": [
+    "ETAN",
+    "altrewin",
+    "Zakka",
+    "Kolezan"
+  ],
+  "HeavyWeight": [
+    "Kolezan"
+  ],
+  "LiftOff": [
+    "Zakka"
+  ],
+  "PowerOfTheSaberBlade": [
+    "altrewin",
+    "Freeek"
+  ],
+  "TempoKatana": [
+    "ETAN"
+  ],
+  "Damage": [],
+  "Lustre": [],
+  "TheMaster": [],
+  "Untamed": [],
+  "WorldWideWeb": [],
+  "Danger": [],
+  "100BillsRemix": [
+    "altrewin"
+  ],
+  "EscapeRemix": [
+    "ConnorJC Zakka"
+  ],
+  "SpookyBeat": [
+    "Freeek"
+  ],
+  "FitBeat": [],
+  "CrabRave": [],
+  "PopStars": [],
+  "OneHope": [],
+  "AngelVoices": [],
+  "ExitThisEarthsAtomosphere": [],
+  "Ghost": [],
+  "LightItUp": [],
+  "Crystallized": [],
+  "CycleHit": [],
+  "WhatTheCat": []
+}
