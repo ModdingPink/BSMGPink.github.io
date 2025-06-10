@@ -799,18 +799,42 @@
     "Zakka",
     "ETAN"
   ],
-  "100Bills": [],
-  "BalearicPumping": [],
-  "BeatSaber": [],
-  "Breezer": [],
-  "CommercialPumping": [],
-  "CountryRounds": [],
-  "Escape": [],
-  "Legend": [],
-  "LvlInsane": [],
-  "TurnMeOn": [],
-  "BeThereForYou": [],
-  "Elixia": [],
+  "100Bills": [
+    "Publicly Unknown/Lost Media"
+  ],
+  "BalearicPumping": [
+    "Publicly Unknown/Lost Media"
+  ],
+  "BeatSaber": [
+    "Publicly Unknown/Lost Media"
+  ],
+  "Breezer": [
+    "Publicly Unknown/Lost Media"
+  ],
+  "CommercialPumping": [
+    "Publicly Unknown/Lost Media"
+  ],
+  "CountryRounds": [
+    "Publicly Unknown/Lost Media"
+  ],
+  "Escape": [
+    "Publicly Unknown/Lost Media"
+  ],
+  "Legend": [
+    "Publicly Unknown/Lost Media"
+  ],
+  "LvlInsane": [
+    "Publicly Unknown/Lost Media"
+  ],
+  "TurnMeOn": [
+    "Publicly Unknown/Lost Media"
+  ],
+  "BeThereForYou": [
+    "Publicly Unknown/Lost Media"
+  ],
+  "Elixia": [
+    "Publicly Unknown/Lost Media"
+  ],
   "INeedYou": [
     "Purphoros",
     "Split"
@@ -943,14 +967,36 @@
   "FitBeat": [
     "Freeek"
   ],
-  "CrabRave": [],
-  "PopStars": [],
-  "OneHope": [],
-  "AngelVoices": [],
-  "ExitThisEarthsAtomosphere": [],
-  "Ghost": [],
-  "LightItUp": [],
-  "Crystallized": [],
-  "CycleHit": [],
-  "WhatTheCat": []
+  "CrabRave": [
+    "Publicly Unknown/Lost Media"
+  ],
+  "PopStars": [
+    "Publicly Unknown/Lost Media"
+  ],
+  "OneHope": [
+    "Publicly Unknown/Lost Media"
+  ],
+  "AngelVoices": [
+    "Publicly Unknown/Lost Media"
+  ],
+  "ExitThisEarthsAtomosphere": [
+    "Publicly Unknown/Lost Media"
+  ],
+  "Ghost": [
+    "altrewin",
+    "Publicly Unknown/Lost Media"
+  ],
+  "LightItUp": [
+    "Publicly Unknown/Lost Media"
+  ],
+  "Crystallized": [
+    "Publicly Unknown/Lost Media"
+  ],
+  "CycleHit": [
+    "Freeek",
+    "Publicly Unknown/Lost Media"
+  ],
+  "WhatTheCat": [
+    "Publicly Unknown/Lost Media"
+  ]
 }
