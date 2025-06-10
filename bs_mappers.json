@@ -804,13 +804,17 @@
     "ETAN",
     "altrewin",
     "Zakka",
-    "Kolezan"
+    "Kolezan",
+    "Freeek"
   ],
   "HeavyWeight": [
-    "Kolezan"
+    "Kolezan",
+    "ETAN"
   ],
   "LiftOff": [
-    "Zakka"
+    "Zakka",
+    "Freeek",
+    "Kolezan"
   ],
   "PowerOfTheSaberBlade": [
     "altrewin",
