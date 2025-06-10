@@ -916,7 +916,9 @@
     "ETAN",
     "AaltopahWi"
   ],
-  "Danger": [],
+  "Danger": [
+    "altrewin"
+  ],
   "100BillsRemix": [
     "altrewin"
   ],
@@ -927,7 +929,9 @@
   "SpookyBeat": [
     "Freeek"
   ],
-  "FitBeat": [],
+  "FitBeat": [
+    "Freeek"
+  ],
   "CrabRave": [],
   "PopStars": [],
   "OneHope": [],
