@@ -518,18 +518,55 @@
   "TillTheWorldEnds": [],
   "Toxic": [],
   "Womanizer": [],
-  "Accelerate": [],
-  "Dabadabadabadaba": [],
-  "DeadManWalking": [],
-  "Endgame": [],
-  "FinalBoss": [],
-  "MemoryBank": [],
-  "Mercenary": [],
-  "Pump": [],
-  "Rad": [],
-  "RIOT": [],
-  "ThronesOfBlood": [],
-  "WakeUp": [],
+  "Accelerate": [
+    "Syndicate",
+    "ETAN",
+    "altrewin"
+  ],
+  "Dabadabadabadaba": [
+    "altrewin"
+  ],
+  "DeadManWalking": [
+    "Zakka"
+  ],
+  "Endgame": [
+    "Kolezan",
+    "ETAN"
+  ],
+  "FinalBoss": [
+    "Narwall",
+    "ETAN",
+    "Freeek"
+  ],
+  "MemoryBank": [
+    "Zakka",
+    "Kolezan"
+  ],
+  "Mercenary": [
+    "ETAN",
+    "AaltopahWi"
+  ],
+  "Pump": [
+    "Zakka",
+    "Narwall",
+    "AaltopahWi"
+  ],
+  "Rad": [
+    "Zakka",
+    "AaltopahWi",
+    "Syndicate",
+    "ETAN"
+  ],
+  "RIOT": [
+    "Zakka",
+    "altrewin"
+  ],
+  "ThronesOfBlood": [
+    "altrewin"
+  ],
+  "WakeUp": [
+    "ETAN"
+  ],
   "AtlasRise": [
     "Syndicate",
     "ETAN",
