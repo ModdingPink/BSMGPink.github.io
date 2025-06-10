@@ -312,19 +312,23 @@
     "altrewin"
   ],
   "Bones": [
-    "ETAN"
+    "ETAN",
+    "Kolezan"
   ],
   "Enemy": [
-    "Freeek"
+    "Freeek",
+    "Kolezan"
   ],
   "BadLiar": [
     "GreatYazer (Kolezan Remaster)"
   ],
   "Believer": [
-    "Freeek (Freeek Remaster)"
+    "Freeek (Freeek",
+    "Kolezan Remaster)"
   ],
   "Digital": [
-    "Freeek (Zakka Remaster)"
+    "Freeek (Zakka",
+    "Freeek Remaster)"
   ],
   "ItsTime": [
     "GreatYazer (altrewin Remaster)"
@@ -339,7 +343,8 @@
     "Freeek (ETAN Remaster)"
   ],
   "Thunder": [
-    "GreatYazer (ETAN Remaster)"
+    "GreatYazer (ETAN",
+    "Freeek Remaster)"
   ],
   "Warriors": [
     "Freeek (Freeek Remaster)"
