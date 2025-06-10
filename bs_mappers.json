@@ -498,15 +498,46 @@
   "VeridisQuo": [
     "Zakka"
   ],
-  "AllEyezOnMe": [],
-  "Anaconda": [],
-  "GinAndJuice": [],
-  "Godzilla": [],
-  "HeyYA": [],
-  "Hypnotize": [],
-  "NuthinButAGThang": [],
-  "TheMessage": [],
-  "TheWoo": [],
+  "AllEyezOnMe": [
+    "Zakka",
+    "Narwall",
+    "Syndicate",
+    "ETAN"
+  ],
+  "Anaconda": [
+    "ETAN",
+    "Kolezan"
+  ],
+  "GinAndJuice": [
+    "altrewin",
+    "ETAN"
+  ],
+  "Godzilla": [
+    "altrewin",
+    "AaltopahWi"
+  ],
+  "HeyYA": [
+    "ETAN"
+  ],
+  "Hypnotize": [
+    "AaltopahWi",
+    "ETAN",
+    "Narwall"
+  ],
+  "NuthinButAGThang": [
+    "Zakka",
+    "ETAN"
+  ],
+  "TheMessage": [
+    "Syndicate",
+    "ETAN",
+    "Kolezan",
+    "Freeek"
+  ],
+  "TheWoo": [
+    "Zakka",
+    "altrewin"
+  ],
   "BabyOneMoreTime": [
     "ETAN"
   ],
