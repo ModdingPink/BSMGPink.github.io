@@ -378,14 +378,16 @@
   ],
   "Numb": [
     "Freeek (Syndicate",
-    "Zakka Remaster)"
+    "Zakka",
+    "ETAN Remaster)"
   ],
   "OneStepCloser": [
-    "Freeek (Zakka Remaster)"
+    "Freeek (Zakka",
+    "Freeek",
+    "ETAN Remaster)"
   ],
   "Papercut": [
-    "Kolezan (AaltopahWi",
-    "Kolezan Remaster)"
+    "Kolezan (AaltopahWi Remaster)"
   ],
   "SomewhereIBelong": [
     "Kolezan (Remaster)"
@@ -420,7 +422,8 @@
   "NumbEncore": [
     "altrewin",
     "Kolezan",
-    "Zakka"
+    "Zakka",
+    "ETAN"
   ],
   "RememberTheName": [
     "altrewin"
@@ -761,10 +764,21 @@
   "FullCharge": [],
   "Immortal": [],
   "BurningSands": [],
-  "IntoTheDream": [],
-  "ItTakesMe": [],
-  "LudicrousPlus": [],
-  "SpinEternally": [],
+  "IntoTheDream": [
+    "Kolezan"
+  ],
+  "ItTakesMe": [
+    "Zakka",
+    "Freeek"
+  ],
+  "LudicrousPlus": [
+    "Kolezan",
+    "Freeek"
+  ],
+  "SpinEternally": [
+    "Zakka",
+    "Freeek"
+  ],
   "DollarSeventyEight": [
     "altrewin"
   ],
