@@ -45,11 +45,22 @@
   "Minority": [
     "Ruckus"
   ],
-  "HasAMeaning": [],
-  "DumbThingz": [],
-  "WhileWereYoung": [],
-  "WhatILike": [],
-  "Famous": [],
+  "HasAMeaning": [
+    "Freeek"
+  ],
+  "DumbThingz": [
+    "GreatYazer"
+  ],
+  "WhileWereYoung": [
+    "GreatYazer"
+  ],
+  "WhatILike": [
+    "Freeek"
+  ],
+  "Famous": [
+    "Freeek",
+    "Ruckus"
+  ],
   "BloodSweatAndTears": [
     "GreatYazer",
     "Kolezan"
