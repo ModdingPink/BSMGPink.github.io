@@ -1,33 +1,56 @@
 {
   "Boundless": [
+    "Freeek",
+    "Kolezan"
   ],
   "EmojiVIP": [
+    "Rustic",
+    "Freeek"
   ],
   "Epic": [
+    "Rustic",
+    "Freeek"
   ],
   "FeelingStronger": [
+    "GreatYazer",
+    "Split",
+    "Freeek"
   ],
   "Overkill": [
-    "Freeek"
+    "Freeek",
+    "ETAN"
   ],
   "Rattlesnake": [
+    "Rustic",
+    "Freeek"
   ],
   "Stronger": [
+    "Rustic",
+    "Freeek"
   ],
   "ThisTime": [
+    "Freeek",
+    "Kolezan"
   ],
   "TillItsOver": [
+    "GreatYazer",
+    "Freeek"
   ],
   "WeWontBeAlone": [
+    "GreatYazer"
   ],
   "Play": [
-    "Freeek"
+    "Freeek",
+    "Kolezan"
   ],
   "Glide": [
-    "Freeek"
+    "Freeek",
+    "Ruckus"
   ],
   "LuvUNeedU": [
-    "GreatYazer"
+    "GreatYazer",
+    "Freeek",
+    "ETAN"
   ],
   "RockIt": [
     "Freeek"
@@ -39,31 +62,39 @@
     "Freeek"
   ],
   "AmericanIdiot": [
-    "Freeek"
+    "Freeek",
+    "Kolezan"
   ],
   "FatherOfAll": [
-    "Ruckus"
+    "Ruckus",
+    "Freeek"
   ],
   "BoulevardOfBrokenDreams": [
     "Freeek"
   ],
   "Holiday": [
-    "GreatYazer"
+    "GreatYazer",
+    "altrewin",
+    "Freeek"
   ],
   "FireReadyAim": [
-    "GreatYazer"
+    "GreatYazer",
+    "Freeek"
   ],
   "Minority": [
-    "Ruckus"
+    "Ruckus",
+    "Freeek"
   ],
   "HasAMeaning": [
     "Freeek"
   ],
   "DumbThingz": [
-    "GreatYazer"
+    "GreatYazer",
+    "altrewin"
   ],
   "WhileWereYoung": [
-    "GreatYazer"
+    "GreatYazer",
+    "Kolezan"
   ],
   "WhatILike": [
     "Freeek"
@@ -93,7 +124,8 @@
     "Freeek"
   ],
   "Dynamite": [
-    "Freeek"
+    "Freeek",
+    "Kolezan"
   ],
   "FakeLove": [
     "Kolezan"
@@ -102,7 +134,8 @@
     "Ruckus"
   ],
   "MicDrop": [
-    "Freeek"
+    "Freeek",
+    "altrewin"
   ],
   "NotToday": [
     "Kolezan",
@@ -118,7 +151,8 @@
   "DnaLamar": [
     "Zakka",
     "Freeek",
-    "Ruckus"
+    "Ruckus",
+    "altrewin"
   ],
   "DontCha": [
     "Freeek",
@@ -136,14 +170,16 @@
   "Sugar": [
     "Zakka",
     "Kolezan",
-    "Freeek"
+    "Freeek",
+    "ETAN"
   ],
   "TheSweetEscape": [
     "Kolezan",
     "Ruckus"
   ],
   "Bangarang": [
-    "Kolezan"
+    "Kolezan",
+    "altrewin"
   ],
   "Butterflies": [
     "Kolezan"
@@ -156,7 +192,8 @@
   "FirstOfTheYear": [
     "Zakka",
     "Ruckus",
-    "Kolezan"
+    "Kolezan",
+    "ConnorJC"
   ],
   "RaggaBomb": [
     "Zakka",
@@ -185,7 +222,8 @@
   ],
   "HappierThanEver": [
     "Freeek",
-    "Kolezan"
+    "Kolezan",
+    "altrewin"
   ],
   "IDidntChangeMyNumber": [
     "Kolezan",
@@ -198,34 +236,44 @@
     "Kolezan"
   ],
   "ThereforeIAm": [
-    "Zakka"
+    "Zakka",
+    "Freeek",
+    "Kolezan"
   ],
   "YouShouldSeeMeInACrown": [
     "Zakka"
   ],
   "Alejandro": [
-    "Kolezan"
+    "Kolezan",
+    "altrewin"
   ],
   "BadRomance": [
     "Zakka"
   ],
   "BornThisWay": [
-    "ETAN"
+    "ETAN",
+    "Freeek"
   ],
   "JustDance": [
-    "Kolezan"
+    "Kolezan",
+    "ETAN"
   ],
   "Paparazzi": [
-    "Ruckus"
+    "Ruckus",
+    "Freeek"
   ],
   "PokerFace": [
-    "altrewin"
+    "altrewin",
+    "Freeek",
+    "Kolezan"
   ],
   "RainOnMe": [
-    "Zakka"
+    "Zakka",
+    "Freeek"
   ],
   "StupidLove": [
-    "Ruckus"
+    "Ruckus",
+    "Freeek"
   ],
   "Telephone": [
     "Freeek"
@@ -234,16 +282,19 @@
     "ConnorJC"
   ],
   "Centuries": [
-    "Kolezan"
+    "Kolezan",
+    "Freeek"
   ],
   "DanceDance": [
     "ConnorJC"
   ],
   "IDontCare": [
-    "Zakka"
+    "Zakka",
+    "Freeek"
   ],
   "Immortals": [
-    "ConnorJC"
+    "ConnorJC",
+    "ETAN"
   ],
   "Irresistible": [
     "altrewin"
@@ -268,7 +319,8 @@
     "Kolezan"
   ],
   "GhostsNStuff": [
-    "altrewin"
+    "altrewin",
+    "ConnorJC"
   ],
   "Icarus": [
     "Zakka"
@@ -279,7 +331,7 @@
     "Kolezan",
     "ETAN",
     "Zakka",
-    "Altrewin"
+    "altrewin"
   ],
   "StayTheNight": [
     "ConnorJC"
@@ -299,7 +351,8 @@
     "Kolezan"
   ],
   "AboutDamnTime": [
-    "Freeek"
+    "Freeek",
+    "Kolezan"
   ],
   "CuzILoveYou": [
     "altrewin"
@@ -323,13 +376,17 @@
     "Zakka"
   ],
   "BornToBeWild": [
-    "Zakka"
+    "Zakka",
+    "ETAN",
+    "altrewin"
   ],
   "EyeOfTheTiger": [
     "altrewin"
   ],
   "FreeBird": [
-    "Freeek"
+    "Freeek",
+    "altrewin",
+    "Kolezan"
   ],
   "IWasMadeLovingYou": [
     "ConnorJC"
@@ -338,13 +395,17 @@
     "Zakka"
   ],
   "SmellsLikeTeenSpirit": [
-    "Kolezan"
+    "Kolezan",
+    "Freeek"
   ],
   "SweetChildOMine": [
-    "ConnorJC"
+    "ConnorJC",
+    "Kolezan"
   ],
   "ThePretender": [
-    "altrewin"
+    "altrewin",
+    "ETAN",
+    "Kolezan"
   ],
   "Bones": [
     "ETAN",
@@ -358,6 +419,7 @@
     "GreatYazer (Kolezan Remaster)"
   ],
   "Believer": [
+    "Rustic",
     "Freeek (Freeek",
     "Kolezan Remaster)"
   ],
@@ -369,7 +431,8 @@
     "GreatYazer (altrewin Remaster)"
   ],
   "Machine": [
-    "Rustic (Zakka Remaster)"
+    "Rustic",
+    "Freeek (Zakka Remaster)"
   ],
   "Natural": [
     "GreatYazer (altrewin Remaster)"
@@ -391,13 +454,16 @@
     "altrewin"
   ],
   "DancingsNotACrime": [
-    "ETAN"
+    "GreatYazer (Zakka",
+    "Freeek Remaster)"
   ],
   "HeyLookMaIMadeIt": [
     "Zakka"
   ],
   "SayAmen": [
-    "Zakka"
+    "Zakka",
+    "altrewin",
+    "ETAN"
   ],
   "SugarSoaker": [
     "altrewin"
@@ -409,10 +475,13 @@
     "GreatYazer (Zakka Remaster)"
   ],
   "HighHopes": [
-    "GreatYazer (Kolezan Remaster)"
+    "GreatYazer (Kolezan",
+    "ETAN",
+    "Freeek Remaster)"
   ],
   "TheGreatestShow": [
-    "Freeek (Freeek Remaster)"
+    "Freeek (Freeek", 
+    "ConnorJC Remaster)"
   ],
   "Victorious": [
     "Freeek (ETAN Remaster)"
@@ -477,7 +546,8 @@
     "ConnorJC"
   ],
   "CantFeelMyFace": [
-    "altrewin"
+    "altrewin",
+    "Freeek"
   ],
   "HowDoIMakeYouLoveMe": [
     "Kolezan"
@@ -512,27 +582,31 @@
     "altrewin Remaster)"
   ],
   "BreakingTheHabit": [
-    "Freeek (AaltopahWi",
-    "altrewin remaster)"
+    "Freeek",
+    "GreatYazer",
+    "Ruckus (AaltopahWi",
+    "altrewin",
+    "Freeek Remaster)"
   ],
   "Faint": [
     "GreatYazer (ETAN Remaster)"
   ],
   "GivenUp": [
     "Freeek (altrewin",
-    "Zakka Remaster)"
+    "Zakka",
+    "ETAN Remaster)"
   ],
   "InTheEnd": [
     "Ruckus (altrewin Remaster)"
   ],
   "NewDivide": [
-    "Kolezan (Syndicate",
-    "Kolezan Remaster)"
+    "Kolezan (Syndicate Remaster)"
   ],
   "Numb": [
     "Freeek (Syndicate",
     "Zakka",
-    "ETAN Remaster)"
+    "ETAN",
+    "Kolezan Remaster)"
   ],
   "OneStepCloser": [
     "Freeek (Zakka",
@@ -540,21 +614,26 @@
     "ETAN Remaster)"
   ],
   "Papercut": [
-    "Kolezan (AaltopahWi Remaster)"
+    "Kolezan (AaltopahWi",
+    "ETAN Remaster)"
   ],
   "SomewhereIBelong": [
-    "Kolezan (Remaster)"
+    "Kolezan",
+    "Freeek (Kolezan Remaster)"
   ],
   "WhatIveDone": [
     "Ruckus (Narwall",
     "altrewin",
-    "Zakka Remaster)"
+    "Zakka",
+    "Freeek",
+    "Kolezan Remaster)"
   ],
   "AlreadyOver": [
     "Kolezan"
   ],
   "Crawling": [
-    "Zakka"
+    "Zakka",
+    "AaltopahWi"
   ],
   "FightingMyself": [
     "Syndicate",
@@ -579,7 +658,8 @@
     "ETAN"
   ],
   "RememberTheName": [
-    "altrewin"
+    "altrewin",
+    "Freeek"
   ],
   "Angry": [
     "ETAN",
@@ -593,7 +673,8 @@
     "Syndicate"
   ],
   "GimmeShelter": [
-    "Zakka"
+    "Zakka",
+    "Freeek"
   ],
   "ICantGetNoSatisfaction": [
     "ETAN"
@@ -609,10 +690,12 @@
   ],
   "StartMeUp": [
     "Kolezan",
-    "AaltopahWi"
+    "AaltopahWi",
+    "Syndicate"
   ],
   "SympathyForTheDevil": [
-    "Narwall"
+    "Narwall",
+    "Freeek"
   ],
   "WholeWideWorld": [
     "altrewin"
@@ -707,7 +790,9 @@
     "ETAN"
   ],
   "Circus": [
-    "Zakka"
+    "Zakka",
+    "AaltopahWi",
+    "Freeek"
   ],
   "GimmeMore": [
     "Narwall",
@@ -880,7 +965,8 @@
     "ETAN",
     "altrewin",
     "Freeek",
-    "AaltopahWi"
+    "AaltopahWi",
+    "Kolezan"
   ],
   "NotLikeUs": [
     "altrewin",
@@ -891,59 +977,95 @@
   "Abracadabra": [
     "Zakka"
   ],
+  "BirdsOfAFeather": [
+    "ETAN",
+    "Kolezan"
+  ],
   "100Bills": [
-    "Freeek"
+    "Split",
+    "Freeek",
+    "hrincarp"
   ],
   "BalearicPumping": [
-    "Rustic"
+    "Rustic",
+    "Split",
+    "Freeek"
   ],
   "BeatSaber": [
-    "Freeek"
+    "Split",
+    "Freeek",
+    "hrincarp"
   ],
   "Breezer": [
-    "Freeek"
-  ],
-  "CommercialPumping": [
-    "bennydabeast"
-  ],
-  "CountryRounds": [
-    "Freeek"
-  ],
-  "Escape": [
+    "Split",
+    "Freeek",
     "GreatYazer"
   ],
-  "Legend": [
-    "bennydabeast"
-  ],
-  "LvlInsane": [
+  "CommercialPumping": [
+    "bennydabeast",
+    "Split",
     "Freeek"
   ],
-  "TurnMeOn": [
-    "bennydabeast"
-  ],
-  "BeThereForYou": [
-    "bennydabeast"
-  ],
-  "Elixia": [
-    "Purphoros"
-  ],
-  "INeedYou": [
-    "Purphoros",
-    "Split"
-  ],
-  "RumNBass": [
-    "Freek",
-    "Split"
-  ],
-  "UnlimitedPower": [
-    "Split"
-  ],
-  "Origins": [
+  "CountryRounds": [
     "Freeek",
     "Split"
   ],
-  "ReasonForLiving": [
+  "Escape": [
+    "GreatYazer",
+    "Split",
+    "Freeek",
+    "hrincarp"
+  ],
+  "Legend": [
+    "bennydabeast",
+    "Split",
+    "hrincarp",
     "Freeek"
+  ],
+  "LvlInsane": [
+    "Freeek",
+    "Split"
+  ],
+  "TurnMeOn": [
+    "bennydabeast",
+    "Split",
+    "Freeek",
+    "hrincarp"
+  ],
+  "BeThereForYou": [
+    "bennydabeast",
+    "GreatYazer",
+    "Freeek"
+  ],
+  "Elixia": [
+    "Purphoros",
+    "GreatYazer",
+    "Freeek"
+  ],
+  "INeedYou": [
+    "Purphoros",
+    "Freeek"
+  ],
+  "RumNBass": [
+    "Freeek",
+    "GreatYazer"
+  ],
+  "UnlimitedPower": [
+    "Split",
+    "Rustic",
+    "Freeek",
+    "Kolezan"
+  ],
+  "Origins": [
+    "Freeek",
+    "Split",
+    "Kolezan",
+    "GreatYazer"
+  ],
+  "ReasonForLiving": [
+    "Freeek",
+    "Kolezan",
+    "GreatYazer"
   ],
   "GiveALittleLove": [
     "Freeek"
@@ -961,7 +1083,8 @@
     "Split"
   ],
   "IntoTheDream": [
-    "Kolezan"
+    "Kolezan",
+    "Zakka"
   ],
   "ItTakesMe": [
     "Zakka",
@@ -969,7 +1092,8 @@
   ],
   "LudicrousPlus": [
     "Kolezan",
-    "Freeek"
+    "Freeek",
+    "ETAN"
   ],
   "SpinEternally": [
     "Zakka",
@@ -994,7 +1118,8 @@
     "ConnorJC"
   ],
   "Magic": [
-    "Freeek"
+    "Freeek",
+    "ConnorJC"
   ],
   "Cathedral": [
     "ETAN",
@@ -1062,14 +1187,24 @@
     "Freeek"
   ],
   "CrabRave": [
+    "Freeek",
+    "GreatYazer"
   ],
   "PopStars": [
+    "Freeek",
+    "Rustic",
+    "GreatYazer"
   ],
   "OneHope": [
+    "Freeek"
   ],
   "AngelVoices": [
     "GreatYazer",
-    "Rustic"
+    "Rustic",
+    "Split",
+    "Freeek",
+    "hrincarp",
+    "Purphoros"
   ],
   "ExitThisEarthsAtomosphere": [
     "GreatYazer"
@@ -1082,10 +1217,12 @@
     "Ruckus"
   ],
   "Crystallized": [
-    "GreatYazer"
+    "GreatYazer",
+    "Freeek"
   ],
   "CycleHit": [
-    "Freeek"
+    "Freeek",
+    "ETAN"
   ],
   "WhatTheCat": [
     "Freeek"
